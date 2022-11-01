@@ -1,4 +1,9 @@
-### Hi there 👋
+# About Me
+Hi, my name is Desmond. I am currently a final year software engineering student studying in Monash University. This is my personal GitHub account with informations to some of the interesting projects I've contributed to during my University degreen and some personal projects I've made. You can contact me with the email desmondyplau@gmail.com.
+
+# University Projects
+
+# Personal Projects
 
 <!--
 **desmondyplau/desmondyplau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
