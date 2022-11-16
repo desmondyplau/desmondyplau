@@ -13,7 +13,12 @@ My capstone industry experience project([FIT4002](https://handbook.monash.edu/20
 
 
 # Personal Projects
+## Arduino Nixie Tube Clock Project
+A project to replicate nixie tubes using LEDs, Acrylic, 3D printed parts. Within this project, I created my own PCB design and coded up a clock which interfaces with an Arduino and a RTC module. The project makes use of the Arduino programming language (C++) for coding and other project files include KiCAD PCB design files and 3D models to seperate the lights from each other. [Here](https://youtube.com/shorts/fZBMAkcnA2k?feature=share) is a short video of it working. 
 
+## MACathon 2022
+I attended the MACathon event ran by MAC(Monash Association of Coding), where my team and I were given 48 hours to develope a real world solution to the theme of: Code a better Australia. For our project, we created a web app which users can submit their COVID-19 cases which we store and put onto a hot map online. The inspiration behind this project is because the Victorrian government stopped releasing COVID-19 hot spots informations, so we thought to implement it ourselves.
+This project was mainly written with a Java backend and a JavaScript front end. [Here](https://youtu.be/2nAsXqPRN90) is our submission video. Although, we did not win any prizes within the competition, it was a great learning experience with soft skills as my team was comprised of memebers whom I don't know.
 <!--
 **desmondyplau/desmondyplau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
