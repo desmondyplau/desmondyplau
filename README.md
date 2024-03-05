@@ -1,5 +1,5 @@
 # About Me
-Hi, my name is Desmond. I am currently a final year software engineering student studying in Monash University. This is my personal GitHub account with informations to some of the interesting projects I've contributed to during my University degreen and some personal projects I've made. You can contact me with the email desmondyplau@gmail.com.
+Hi, my name is Desmond. I am currently a final year software engineering student studying in Monash University. This is my personal GitHub account with informations to some of the interesting projects I've contributed to during my University degree and some personal projects I've made. You can contact me with the email desmondyplau@gmail.com.
 
 # University Projects
 ## HeartSight Mobile App
